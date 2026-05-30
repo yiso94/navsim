@@ -41,8 +41,8 @@ ujson  # Used in serialiation_callback.py
 
 torch
 torchvision
-lightning
-tensorboard==2.16.2
+pytorch-lightning
+tensorboard
 protobuf==4.25.3
 
 notebook
